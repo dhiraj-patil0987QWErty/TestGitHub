@@ -1,2 +1,5 @@
 # TestGitHub
-GitHub Tutorial
+
+GitHub is Repository for showing the bare minimise.	
+
+
